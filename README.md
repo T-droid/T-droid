@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Emmanuel Tindi
+#  Hi, I'm Emmanuel Tindi
 
 ## About Me
-- 🚀 Full-Stack Developer specializing in **JavaScript, Python, and Node.js**
-- 💡 Passionate about building **scalable, efficient applications** using **React, Next.js, and FastAPI**
-- 🌱 Currently mastering **backend optimizations, API performance, and microservices architecture**
-- 🤝 Open to collaborating on **innovative full-stack projects, open-source contributions, and SaaS solutions**
+-  Full-Stack Developer specializing in **JavaScript, Python, and Node.js**
+-  Passionate about building **scalable, efficient applications** using **React, Next.js, and FastAPI**
+-  Currently mastering **backend optimizations, API performance, and microservices architecture**
+-  Open to collaborating on **innovative full-stack projects, open-source contributions, and SaaS solutions**
 
 
 
@@ -38,7 +38,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-droid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
@@ -46,21 +46,21 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=T-droid&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🎯 Current Focus
+##  Current Focus
 - Implementing microservices architecture patterns
 - Mastering Spring Cloud for distributed systems
 - Exploring event-driven architecture
 - Enhancing API security and performance optimization
 - Building robust CI/CD pipelines
 
-## 📫 Let's Connect!
-- Email: [emmanueltindi@gmail](mailto:emmanueltindi66@gmail.com)
+##  Let's Connect!
+- Email: [emmanueltindi81@gmail](mailto:emmanueltindi81@gmail.com)
 - LinkedIn: [Emmanuel Tindi](https://www.linkedin.com/in/emmanuel-tindi-60ba83350) 
 - GitHub: [@T-droid](https://github.com/T-droid)
 
 ---
 
-💡 *"Clean code always looks like it was written by someone who cares."*
+ *"Clean code always looks like it was written by someone who cares."*
 
 <!-- 
 To make the stats more accurate:
